@@ -8,8 +8,8 @@
     border: 3px solid black;
   
     @media (max-width: 500px) {
-      width: 28rem;
-      height: 28rem;
+      width: 20rem;
+      height: 20rem;
     }
   
     animation: morph 8s ease-in-out infinite;

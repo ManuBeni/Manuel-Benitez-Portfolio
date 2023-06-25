@@ -7,10 +7,10 @@ export default {
       "./src/components/**/*.{js,jsx,ts,tsx}"
   ],
   theme: {
-    // fontFamily:{
-    //   logo:"Poppins, sans-serif"
-    // },
     screens: {
+
+      'xs':'400px',
+
       'sm': '640px',
       // => @media (min-width: 640px) { ... }
 
