@@ -11,6 +11,10 @@
       width: 20rem;
       height: 20rem;
     }
+
+    @media (max-width: 1024px) {
+      margin-top: 4rem;
+    }
   
     animation: morph 8s ease-in-out infinite;
     border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
