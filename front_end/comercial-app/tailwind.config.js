@@ -8,6 +8,12 @@ export default {
   ],
   theme: {
     extend: {
+
+      backgroundImage: {
+        'project-still': "url('src/assets/projects/Screenshot_2023-06-30_01-59-46.png')"
+        
+      },
+
       animation: {
         'spin-slow': 'spin 3s linear infinite',
       },

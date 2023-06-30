@@ -3,13 +3,14 @@ export default function About() {
     <div className="flex flex-col justify-center xl:flex-row w-screen h-screen max-h-[1000px]">
       <div className="flex justify-center self-center relative h-[300px]">
         <img
-          className="h-[300px] max-w-[100%] rounded-xl  self-center mx-10"
+          className="h-[300px] max-w-[90%] rounded-xl  self-center mx-10"
           src="src/assets/about-img.62b47e7f183d4b4e9feb.webp"
           alt="loading..."
         />
         <img
           src="src/assets/text2.3d5aa6ba2d0632bb4e0572631c3f9dc2.svg"
           className="absolute xl:inline-flex w-[200px] bg-slate-50 rounded-full left-[0] top-[150px] animate-[spin_8s_linear_infinite] hidden"
+          loading="lazy"
         ></img>
         <img
           src="src/assets/working-emoji.c5325f52b5be329995a5.png"
@@ -24,9 +25,9 @@ export default function About() {
           Sobre mi
         </h2>
         <h1 className="text-black text-2xl max-w-[100%] font-bold pb-3 justify-center self-center">
-          Un programador dedicado con base en Argentina. &#128204;
+          Un programador dedicado con base en Argentina. 📍
         </h1>
-        <p className="text-slate-500  text-md xl:px-0 px-10 overflow-hidden">
+        <p className="text-slate-500  text-md xl:pr-3 xl:pl-0 sm:px-10 overflow-hidden">
           Como Programador Web Junior, tengo un amplio arsenal de conocimientos
           en HTML, CSS, Javascript, React, Node, PostgresSQL, Express, Redux,
           MaterialUI, ChakraUI, Tailwind y Figma. Siendo un apasionado de la

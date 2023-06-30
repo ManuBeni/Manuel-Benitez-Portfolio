@@ -19,10 +19,10 @@ export default function Hero(){
 
               <h2 className=" xl:text-xl text-xl sm:w-auto w-[80%] xl:inline flex xl:text-start text-center xl:px-0 px-11 text-slate-600 max-w-4xl  min-w-0 overflow-hidden">
                 Soy Manuel Benitez, un programador web full-stack basado en
-                Córdoba, Argentina. &#128204;
+                Córdoba, Argentina. 📍
               </h2>
             </div>
-            <div className={styles.img + ""}></div>
+            <div className={styles.img}></div>
           </div>
           <div className="flex flex-row xl:justify-start justify-center xl:-mt-3 mt-3 xl:mb-4 mb-7 ">
             <a
