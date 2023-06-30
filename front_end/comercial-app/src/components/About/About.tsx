@@ -27,7 +27,7 @@ export default function About() {
         <h1 className="text-black text-2xl max-w-[100%] font-bold pb-3 justify-center self-center">
           Un programador dedicado con base en Argentina. 📍
         </h1>
-        <p className="text-slate-500  text-md xl:pr-3 xl:pl-0 sm:px-10 overflow-hidden">
+        <p className="text-slate-500 text-md xl:pr-3 xl:pl-0 sm:px-10 overflow-hidden">
           Como Programador Web Junior, tengo un amplio arsenal de conocimientos
           en HTML, CSS, Javascript, React, Node, PostgresSQL, Express, Redux,
           MaterialUI, ChakraUI, Tailwind y Figma. Siendo un apasionado de la

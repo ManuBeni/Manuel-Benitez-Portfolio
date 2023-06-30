@@ -24,10 +24,11 @@ const Home = () => {
       </section>
       <section
         id="projects"
-        className="scroll-smooth sm:min-h-screen min-h-[1200px] h-screen w-screen bg-slate-100 flex justify-center items-center"
+        className="scroll-smooth  xl:min-h-[1000px] lg:min-h-[1400px] md:min-h-[1450px] sm:min-h-[1500px] xs:min-h-[1600px] min-h-[1700px] w-screen bg-slate-100 flex justify-center items-center"
       >
         <Projects/>
       </section>
+      
     </>
   );
 };
