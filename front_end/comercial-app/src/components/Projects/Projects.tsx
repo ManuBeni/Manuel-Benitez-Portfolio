@@ -15,7 +15,7 @@ export default function Projectsa() {
 
           <div className="flex bg-slate-50 shadow-xl flex-column flex-wrap xl:m-10 2xl:mx-[300px] rounded-2xl  m-0 mb-10 justify-center items-center ">
             
-          <div className="my-5 bg-no-repeat shrink-0 bg-center bg-contain bg-[url('projects/Screenshot_2023-06-30_01-59-46.png')] xl:w-[37vw] sm:w-[90%] w-[100%] h-[42vh] hover:bg-[url('https://user-images.githubusercontent.com/85205823/192325244-1e46ba81-e6da-4f26-b3f0-ff3fd068a8eb.gif')] rounded-2xl" />
+          <div className="my-5 bg-no-repeat shrink-0 bg-center bg-contain bg-[url('../../projects/Screenshot_2023-06-30_01-59-46.png')] xl:w-[37vw] sm:w-[90%] w-[100%] h-[42vh] hover:bg-[url('https://user-images.githubusercontent.com/85205823/192325244-1e46ba81-e6da-4f26-b3f0-ff3fd068a8eb.gif')] rounded-2xl" />
            
 
             <div className="md:px-10  xl:basis-1/3">
@@ -49,7 +49,7 @@ export default function Projectsa() {
           <div className="flex xl:flex-row flex-column  flex-wrap xl:m-10 m-0 justify-center items-center 2xl:mx-[300px] shadow-xl bg-slate-50 rounded-2xl ">
             
               
-              <div className="bg-no-repeat my-5 shrink-0 xl:order-2 bg-center bg-contain bg-[url('projects/Screenshot_2023-06-30_07-33-24.png')] xl:w-[37vw] sm:w-[90%] w-[100%] h-[42vh] hover:bg-[url('projects/simplescreenrecorder-2-6uyah0kx_OUzpg5UW.gif')] rounded-2xl" />
+              <div className="bg-no-repeat my-5 shrink-0 xl:order-2 bg-center bg-contain bg-[url('../../projects/Screenshot_2023-06-30_07-33-24.png')] xl:w-[37vw] sm:w-[90%] w-[100%] h-[42vh] hover:bg-[url('../../projects/simplescreenrecorder-2-6uyah0kx_OUzpg5UW.gif')] rounded-2xl" />
 
             <div className="md:px-10  xl:basis-1/3">
               <h2 className="text-[#2d2e32] text-center font-bold text-xl xs:mt-2 sm:mt-5 mt-0">
