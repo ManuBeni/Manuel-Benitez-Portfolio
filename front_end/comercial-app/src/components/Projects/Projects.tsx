@@ -1,19 +1,23 @@
 import { AiFillGithub } from "react-icons/ai";
 import { BiLinkExternal } from "react-icons/bi";
 
-export default function Projectsa() {
+export default function Projects() {
   return (
     <>
-      <div className="flex flex-initial">
-        <div className="flex flex-col justify-items-center w-[100vw]">
-          <div className="  xl:text-left self-center text-center sm:w-[50%] xl:w-[67%] mb-5 xs:mb-10 xl:mb-0 ">
+    <section
+        id="projects"
+        className="scroll-smooth  xl:min-h-[1200px] lg:min-h-[1400px] md:min-h-[1450px] sm:min-h-[1500px] xs:min-h-[1600px] min-h-[1900px] w-screen bg-slate-100 flex justify-center items-center"
+      >
+      <div className="flex flex-initial pt-5">
+        <div className="flex flex-col justify-items-center w-[100vw] ">
+          <div className="  xl:text-left self-center text-center sm:w-[50%] xl:w-[67%] mb-5 pt-5 xs:mb-10 xl:mb-0">
             <h2 className="text-blue-600 text-xl font-bold mb-3 xl:mb-0">Proyectos</h2>
             <h1 className="text-[#2d2e32] text-2xl ">
               Cada proyecto es una pieza de desarrollo &#x1F9E9;
             </h1>
           </div>
 
-          <div className="flex bg-slate-50 shadow-xl flex-column flex-wrap xl:m-10 2xl:mx-[300px] rounded-2xl  m-0 mb-10 justify-center items-center ">
+          <div className="flex bg-slate-50 shadow-xl flex-column flex-wrap xl:m-10 2xl:mx-[300px] rounded-2xl mt-10 m-0 mb-10 justify-center items-center ">
             
           <div className="my-5 bg-no-repeat shrink-0 bg-center bg-contain bg-[url('../../projects/Screenshot_2023-06-30_01-59-46.png')] xl:w-[37vw] sm:w-[90%] w-[100%] h-[42vh] hover:bg-[url('https://user-images.githubusercontent.com/85205823/192325244-1e46ba81-e6da-4f26-b3f0-ff3fd068a8eb.gif')] rounded-2xl" />
            
@@ -74,6 +78,7 @@ export default function Projectsa() {
 
         </div>
       </div>
+      </section>
     </>
   );
 }

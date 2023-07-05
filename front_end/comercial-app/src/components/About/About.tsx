@@ -1,6 +1,10 @@
 export default function About() {
   return (
-    <div className="flex flex-col justify-center xl:flex-row w-screen h-screen max-h-[1000px]">
+    <section
+    id="about"
+    className="scroll-smooth h-fit  w-screen bg-slate-50 flex justify-center items-center pt-5"
+  >
+    <div className="flex flex-col justify-center xl:flex-row w-screen h-fit ">
       <div className="flex justify-center self-center relative h-[300px]">
         <img
           className="h-[300px] max-w-[90%] rounded-xl shrink-0  self-center mx-10"
@@ -19,7 +23,7 @@ export default function About() {
       </div>
       <div
         id="text-side"
-        className="xl:max-w-[40%] max-w-[100%] xl:text-start text-center self-center px-10 xl:mt-0 mt-10 gap-x-20"
+        className="xl:max-w-[40%] max-w-[100%] xl:text-start text-center self-center px-10 xl:mt-0 mt-10 gap-x-20 pb-5"
       >
         <h2 className="text-blue-600 text-xl font-bold lg:pb-0 pb-5">
           Sobre mi
@@ -41,5 +45,6 @@ export default function About() {
         </p>
       </div>
     </div>
+    </section>
   );
 }

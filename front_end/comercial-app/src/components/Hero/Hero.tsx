@@ -4,6 +4,10 @@ import { AiFillGithub, AiOutlineLinkedin } from "react-icons/ai";
 
 export default function Hero(){
     return (
+      <section
+      id="home"
+      className="overflow-hidden min-h-[1200px] md:min-h-[1000px] xl:min-h-screen h-screen w-scren bg-slate-100 flex justify-center items-center xl:mt-10"
+    >
         <div className="flex flex-col justify-center">
           <div className="flex xl:flex-row flex-col-reverse flex-wrap-reverse md:justify-between justify-center content-center">
             <div className="flex flex-col justify-center items-center content-center max-w-[600px] mr-0 xl:mr-20">
@@ -115,5 +119,6 @@ export default function Hero(){
             </ul>
           </div>
         </div>
+        </section>
     )
 }
