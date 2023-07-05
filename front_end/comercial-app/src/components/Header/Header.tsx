@@ -13,7 +13,7 @@ const Header = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   return (
-    <nav className="flex m-0 p-2.5 z-1 px-10 w-full flex-row justify-between text-black bg-slate-50 shadow-md fixed left-0 right-0 top-0 z-[40]  ">
+    <nav className="flex m-0 p-2.5 z-1 px-10 w-full flex-row justify-between text-[#2d2e32] bg-slate-50 shadow-md fixed left-0 right-0 top-0 z-[40]  ">
       <a
         className="px-4 text-2xl flex items-center font-bold hover:text-3xl duration-500"
         href="#home"

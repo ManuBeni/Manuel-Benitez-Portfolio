@@ -7,10 +7,10 @@ export default function Hero(){
         <div className="flex flex-col justify-center">
           <div className="flex xl:flex-row flex-col-reverse flex-wrap-reverse md:justify-between justify-center content-center">
             <div className="flex flex-col justify-center items-center content-center max-w-[600px] mr-0 xl:mr-20">
-              <h2 className="hidden xl:text-5xl text-3xl sm:w-full w-[80%] xl:inline  justify-center  text-stone-700 pb-4">
+              <h2 className="hidden xl:text-5xl text-3xl sm:w-full w-[80%] xl:inline  justify-center  text-[#2d2e32] pb-4">
                 Hola! &#128075;
               </h2>
-              <h1 className=" hidden xl:inline xl:text-6xl text-4xl sm:w-full text-center xl:text-start w-[80%] font-bold text-stone-700 pb-4 xl:mb-0 mb-3">
+              <h1 className=" hidden xl:inline xl:text-6xl text-4xl sm:w-full text-center xl:text-start w-[80%] font-bold text-[#2d2e32] pb-4 xl:mb-0 mb-3">
                 Desarrollemos tu próxima página web.
               </h1>
               <h1 className=" xl:hidden text-4xl text-center  w-[80%] font-bold text-stone-700 pb-4 xl:mb-0 mb-3">

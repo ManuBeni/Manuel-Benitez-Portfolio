@@ -3,7 +3,7 @@ export default function About() {
     <div className="flex flex-col justify-center xl:flex-row w-screen h-screen max-h-[1000px]">
       <div className="flex justify-center self-center relative h-[300px]">
         <img
-          className="h-[300px] max-w-[90%] rounded-xl  self-center mx-10"
+          className="h-[300px] max-w-[90%] rounded-xl shrink-0  self-center mx-10"
           src="src/assets/about-img.62b47e7f183d4b4e9feb.webp"
           alt="loading..."
         />
@@ -24,7 +24,7 @@ export default function About() {
         <h2 className="text-blue-600 text-xl font-bold lg:pb-0 pb-5">
           Sobre mi
         </h2>
-        <h1 className="text-black text-2xl max-w-[100%] font-bold pb-3 justify-center self-center">
+        <h1 className="text-stone-700 text-2xl max-w-[100%] font-bold pb-3 justify-center self-center">
           Un programador dedicado con base en Argentina. 📍
         </h1>
         <p className="text-slate-500 text-md xl:pr-3 xl:pl-0 sm:px-10 overflow-hidden">
