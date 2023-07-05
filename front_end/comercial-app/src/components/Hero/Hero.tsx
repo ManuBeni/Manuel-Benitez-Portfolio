@@ -64,7 +64,7 @@ export default function Hero(){
                 >
                   <img
                     className=" w-12 p-2"
-                    src="public/icons/css3.9cecabbf6ce67609c48bc4f280a11002.svg"
+                    src="icons/css3.9cecabbf6ce67609c48bc4f280a11002.svg"
                   />
                 </div>
               </li>
@@ -75,7 +75,7 @@ export default function Hero(){
                 >
                   <img
                     className=" w-12 p-2"
-                    src="public/icons/javascript.de4c2594613e34b15666206bbede7327.svg"
+                    src="icons/javascript.de4c2594613e34b15666206bbede7327.svg"
                   />
                 </div>
               </li>
@@ -86,7 +86,7 @@ export default function Hero(){
                 >
                   <img
                     className=" w-12 p-2"
-                    src="public/icons/react.afac9c43724070bf6674f2692b7356a9.svg"
+                    src="icons/react.afac9c43724070bf6674f2692b7356a9.svg"
                   />
                 </div>
               </li>
@@ -97,7 +97,7 @@ export default function Hero(){
                 >
                   <img
                     className=" w-12 p-2"
-                    src="public/icons/scss.67cd0525916c4cdea4eb3abd8ae11137.svg"
+                    src="icons/scss.67cd0525916c4cdea4eb3abd8ae11137.svg"
                   />
                 </div>
               </li>
@@ -108,7 +108,7 @@ export default function Hero(){
                 >
                   <img
                     className=" w-12 p-2"
-                    src="public/icons/tailwind.79614a5f61617ba49a0891494521226b.svg"
+                    src="icons/tailwind.79614a5f61617ba49a0891494521226b.svg"
                   />
                 </div>
               </li>
