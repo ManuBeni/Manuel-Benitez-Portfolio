@@ -118,7 +118,9 @@ const Header = () => {
                       key={item.name}
                       href={item.href}
                       className="-mx-3 flex justify-center bg-blue-500 hover:bg-blue-600 rounded-lg px-3 py-2 text-base font-semibold leading-7 text-white hover:text-xl duration-500"
-                      onClick={()=>{setMobileMenuOpen(false)}}
+                      onClick={() => {
+                        setMobileMenuOpen(false);
+                      }}
                     >
                       {item.name}
                     </a>
@@ -127,7 +129,9 @@ const Header = () => {
                       key={item.name}
                       href={item.href}
                       className="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-200 "
-                      onClick={()=>{setMobileMenuOpen(false)}}
+                      onClick={() => {
+                        setMobileMenuOpen(false);
+                      }}
                     >
                       {item.name}
                     </a>

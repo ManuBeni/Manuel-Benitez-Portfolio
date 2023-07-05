@@ -26,7 +26,6 @@ const Home = () => {
           className="flex flex-row justify-between h-[2rem] w-[90%]"
         >
           <h1 className="text-slate-50 text-xs md:text-lg">
-            
             Copyright © 2023. All rights are reserved
           </h1>
           <div className="flex flex-row items-center">
