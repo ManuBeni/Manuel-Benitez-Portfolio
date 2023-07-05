@@ -52,7 +52,7 @@ export default function Projectsa() {
               <div className="bg-no-repeat my-5 shrink-0 xl:order-2 bg-center bg-contain bg-[url('projects/Screenshot_2023-06-30_07-33-24.png')] xl:w-[37vw] sm:w-[90%] w-[100%] h-[42vh] hover:bg-[url('projects/simplescreenrecorder-2-6uyah0kx_OUzpg5UW.gif')] rounded-2xl" />
 
             <div className="md:px-10  xl:basis-1/3">
-              <h2 className="text-[#2d2e32]text-center font-bold text-xl xs:mt-2 sm:mt-5 mt-0">
+              <h2 className="text-[#2d2e32] text-center font-bold text-xl xs:mt-2 sm:mt-5 mt-0">
                 Buscador de Razas de Perros &#128021;
               </h2>
               <p className="text-slate-600 text-center mt-5 px-10 sm:px-10 md:px-20 xl:px-0">
