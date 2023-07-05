@@ -2,9 +2,9 @@ export default function About() {
   return (
     <section
     id="about"
-    className="scroll-smooth h-fit  w-screen bg-slate-50 flex justify-center items-center pt-5"
+    className="scroll-smooth h-fit sm:h-screen  w-screen bg-slate-50 flex justify-center items-center pt-5"
   >
-    <div className="flex flex-col justify-center xl:flex-row w-screen h-fit ">
+    <div className="flex flex-col justify-center xl:flex-row w-screen h-fit pt-10 ">
       <div className="flex justify-center self-center relative h-[300px]">
         <img
           className="h-[300px] max-w-[90%] rounded-xl shrink-0  self-center mx-10"
