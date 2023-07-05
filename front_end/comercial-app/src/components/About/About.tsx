@@ -2,7 +2,7 @@ export default function About() {
   return (
     <section
     id="about"
-    className="scroll-smooth h-fit sm:h-screen  w-screen bg-slate-50 flex justify-center items-center pt-5"
+    className="scroll-smooth h-fit sm:h-screen  w-screen bg-slate-50 flex justify-center items-center pt-5 xl:py-10 "
   >
     <div className="flex flex-col justify-center xl:flex-row w-screen h-fit pt-10 ">
       <div className="flex justify-center self-center relative h-[300px]">
@@ -31,7 +31,7 @@ export default function About() {
         <h1 className="text-stone-700 text-2xl max-w-[100%] font-bold pb-3 justify-center self-center">
           Un programador dedicado con base en Argentina. 📍
         </h1>
-        <p className="text-slate-500 text-md xl:pr-3 xl:pl-0 sm:px-10 overflow-hidden">
+        <p className="text-slate-500 text-md xl:pr-3 xl:pl-0 sm:px-10 overflow-hidden xl:pb-0 pb-10">
           Como Programador Web Junior, tengo un amplio arsenal de conocimientos
           en HTML, CSS, Javascript, React, Node, PostgresSQL, Express, Redux,
           MaterialUI, ChakraUI, Tailwind y Figma. Siendo un apasionado de la

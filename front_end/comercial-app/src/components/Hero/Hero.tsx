@@ -6,10 +6,10 @@ export default function Hero(){
     return (
       <section
       id="home"
-      className="overflow-hidden min-h-[1200px] md:min-h-[1000px] xl:min-h-screen h-screen w-scren bg-slate-100 flex justify-center items-center xl:mt-10"
+      className="overflow-hidden h-fit py-20 xl:h-screen w-scren bg-slate-100 flex justify-center items-center xl:mt-10"
     >
         <div className="flex flex-col justify-center">
-          <div className="flex xl:flex-row flex-col-reverse flex-wrap-reverse md:justify-between justify-center content-center">
+          <div className="flex xl:flex-row flex-col-reverse items-center flex-wrap-reverse md:justify-between justify-center content-center">
             <div className="flex flex-col justify-center items-center content-center max-w-[600px] mr-0 xl:mr-20">
               <h2 className="hidden xl:text-5xl text-3xl sm:w-full w-[80%] xl:inline  justify-center  text-[#2d2e32] pb-4">
                 Hola! &#128075;

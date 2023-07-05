@@ -29,7 +29,7 @@ const Home = () => {
             
             Copyright © 2023. All rights are reserved
           </h1>
-          <div className="flex flex-row">
+          <div className="flex flex-row items-center">
             <a
               target="_blank"
               rel="noreferrer"

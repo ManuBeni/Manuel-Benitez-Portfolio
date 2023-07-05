@@ -6,11 +6,11 @@ export default function Projects() {
     <>
     <section
         id="projects"
-        className="scroll-smooth  xl:min-h-[1200px] lg:min-h-[1400px] md:min-h-[1450px] sm:min-h-[1500px] xs:min-h-[1600px] min-h-[1900px] w-screen bg-slate-100 flex justify-center items-center"
+        className="scroll-smooth  h-fit py-20 w-screen bg-slate-100 flex justify-center items-center xl:pt-24"
       >
-      <div className="flex flex-initial pt-5">
+      <div className="flex flex-initial">
         <div className="flex flex-col justify-items-center w-[100vw] ">
-          <div className="  xl:text-left self-center text-center sm:w-[50%] xl:w-[67%] mb-5 pt-5 xs:mb-10 xl:mb-0">
+          <div className="  xl:text-left self-center text-center sm:w-[50%] xl:w-[67%] mb-5  xs:mb-10 xl:mb-0">
             <h2 className="text-blue-600 text-xl font-bold mb-3 xl:mb-0">Proyectos</h2>
             <h1 className="text-[#2d2e32] text-2xl ">
               Cada proyecto es una pieza de desarrollo &#x1F9E9;

@@ -29,7 +29,7 @@ export default function Contact() {
                 target="_blank"
                 rel="noreferrer"
                 href="https://www.google.com.ar/maps/place/C%C3%B3rdoba/@-31.3992803,-64.2766136,12z/data=!3m1!4b1!4m6!3m5!1s0x9432985f478f5b69:0xb0a24f9a5366b092!8m2!3d-31.4200833!4d-64.1887761!16zL20vMDFrMDNy?entry=ttu"
-                className="text-[#2d2e32] sm:pt-5 sm:pl-5 pt-2 text-xl hover:text-blue-600 transition-all duration-500"
+                className="text-[#2d2e32] xl:pt-0 sm:pt-5 sm:pl-5 pt-2 text-xl hover:text-blue-600 transition-all duration-500"
               >
                 Córdoba, Argentina
               </a>
@@ -47,7 +47,7 @@ export default function Contact() {
                 target="_blank"
                 rel="noreferrer"
                 href="mailto:manubeni0498@gmail.com"
-                className="text-[#2d2e32] sm:pt-4 sm:pl-5 pt-2 sm:text-xl text-sm flex flex-row  hover:text-blue-600 transition-all duration-500"
+                className="text-[#2d2e32] xl:pt-0 sm:pt-4 sm:pl-5 pt-2 sm:text-xl text-sm flex flex-row  hover:text-blue-600 transition-all duration-500"
               >
                 manubeni0498@gmail.com
               </a>
