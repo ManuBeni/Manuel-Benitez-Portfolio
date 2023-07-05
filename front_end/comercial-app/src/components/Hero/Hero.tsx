@@ -54,7 +54,7 @@ export default function Hero(){
                   className="mx-5 xl:mt-0 mt-4  bg-slate-50 shadow-xl rounded-full "
                   title="HTML5"
                 >
-                  <img className=" w-12 p-2" src="src/assets/icons/react.svg" />
+                  <img className=" w-12 p-2" src="icons/react.svg" />
                 </div>
               </li>
               <li>
@@ -64,7 +64,7 @@ export default function Hero(){
                 >
                   <img
                     className=" w-12 p-2"
-                    src="src/assets/icons/css3.9cecabbf6ce67609c48bc4f280a11002.svg"
+                    src="public/icons/css3.9cecabbf6ce67609c48bc4f280a11002.svg"
                   />
                 </div>
               </li>
@@ -75,7 +75,7 @@ export default function Hero(){
                 >
                   <img
                     className=" w-12 p-2"
-                    src="src/assets/icons/javascript.de4c2594613e34b15666206bbede7327.svg"
+                    src="public/icons/javascript.de4c2594613e34b15666206bbede7327.svg"
                   />
                 </div>
               </li>
@@ -86,7 +86,7 @@ export default function Hero(){
                 >
                   <img
                     className=" w-12 p-2"
-                    src="src/assets/icons/react.afac9c43724070bf6674f2692b7356a9.svg"
+                    src="public/icons/react.afac9c43724070bf6674f2692b7356a9.svg"
                   />
                 </div>
               </li>
@@ -97,7 +97,7 @@ export default function Hero(){
                 >
                   <img
                     className=" w-12 p-2"
-                    src="src/assets/icons/scss.67cd0525916c4cdea4eb3abd8ae11137.svg"
+                    src="public/icons/scss.67cd0525916c4cdea4eb3abd8ae11137.svg"
                   />
                 </div>
               </li>
@@ -108,7 +108,7 @@ export default function Hero(){
                 >
                   <img
                     className=" w-12 p-2"
-                    src="src/assets/icons/tailwind.79614a5f61617ba49a0891494521226b.svg"
+                    src="public/icons/tailwind.79614a5f61617ba49a0891494521226b.svg"
                   />
                 </div>
               </li>

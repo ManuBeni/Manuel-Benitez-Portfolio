@@ -4,16 +4,16 @@ export default function About() {
       <div className="flex justify-center self-center relative h-[300px]">
         <img
           className="h-[300px] max-w-[90%] rounded-xl shrink-0  self-center mx-10"
-          src="src/assets/about-img.62b47e7f183d4b4e9feb.webp"
+          src="assets/about-img.62b47e7f183d4b4e9feb.webp"
           alt="loading..."
         />
         <img
-          src="src/assets/text2.3d5aa6ba2d0632bb4e0572631c3f9dc2.svg"
+          src="assets/text2.3d5aa6ba2d0632bb4e0572631c3f9dc2.svg"
           className="absolute xl:inline-flex w-[200px] bg-slate-50 rounded-full left-[0] top-[150px] animate-[spin_8s_linear_infinite] hidden"
           loading="lazy"
         ></img>
         <img
-          src="src/assets/working-emoji.c5325f52b5be329995a5.png"
+          src="assets/working-emoji.c5325f52b5be329995a5.png"
           className="absolute xl:inline-flex w-[100px] bg-slate-50 rounded-xl left-[50px] top-[195px] hidden"
         ></img>
       </div>
