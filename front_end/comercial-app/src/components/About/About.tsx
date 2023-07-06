@@ -41,7 +41,7 @@ export default function About() {
             que brindan una experiencia de usuario placentera a través de código
             optimizado y limpio, utilizando las últimas tecnologias de
             desarrollo. También me apasiona tomar proyectos en grupo brindando
-            dinamismo y colaboración para desarrollar aplicaciónes web
+            dinamismo y colaboración para desarrollar aplicaciones web
             sobresalientes.
           </p>
         </div>
