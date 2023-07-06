@@ -39,7 +39,7 @@ export default function About() {
             seguridad y SEO.<br></br>
             Me destaco en diseñar y mantener páginas web con diseños adaptables
             que brindan una experiencia de usuario placentera a través de código
-            optimizado y limpio, utilizazndo las últimas tecnologias de
+            optimizado y limpio, utilizando las últimas tecnologias de
             desarrollo. También me apasiona tomar proyectos en grupo brindando
             dinamismo y colaboración para desarrollar aplicaciónes web
             sobresalientes.
