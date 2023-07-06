@@ -10,7 +10,7 @@ export default function Projects() {
       >
         <div className="flex flex-initial">
           <div className="flex flex-col justify-items-center w-[100vw] ">
-            <div className="  xl:text-left self-center text-center sm:w-[50%] xl:w-[67%] mb-5  xs:mb-10 xl:mb-0">
+            <div className=" px-10 text-left self-center  sm:pl-0 xl:w-[67%] xl:pl-10 mb-5  xs:mb-10 xl:mb-0">
               <h2 className="text-blue-600 text-xl font-bold mb-3 xl:mb-0">
                 Proyectos
               </h2>

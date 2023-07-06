@@ -23,12 +23,12 @@ export default function About() {
         </div>
         <div
           id="text-side"
-          className="xl:max-w-[40%] max-w-[100%] xl:text-start text-center self-center px-10 xl:mt-0 mt-10 gap-x-20 pb-5"
+          className="xl:max-w-[40%] md:max-w-[80%] text-start 2 self-center px-10 xl:mt-0 mt-10 gap-x-20 pb-5"
         >
-          <h2 className="text-blue-600 text-xl font-bold lg:pb-0 pb-5">
+          <h2 className="text-blue-600 text-xl font-bold xl:pl-0 lg:pb-0 sm:px-10">
             Sobre mi
           </h2>
-          <h1 className="text-stone-700 text-2xl max-w-[100%] font-bold pb-3 justify-center self-center">
+          <h1 className="text-stone-700 text-2xl  font-bold xl:pl-0 pb-6 sm:px-10 justify-center self-center">
             Un programador dedicado con base en Argentina. 📍
           </h1>
           <p className="text-slate-500 text-md xl:pr-3 xl:pl-0 sm:px-10 overflow-hidden xl:pb-0 pb-10">
