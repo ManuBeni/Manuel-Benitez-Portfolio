@@ -7,13 +7,10 @@
   background-repeat: no-repeat;
   border: 3px solid black;
 
-  @media (max-width: 1280px) {
-    margin-bottom: 2rem;
-  }
-
   @media (max-width: 500px) {
     width: 20rem;
     height: 20rem;
+    margin-bottom: 2rem;
   }
 
   animation: morph 8s ease-in-out infinite;
